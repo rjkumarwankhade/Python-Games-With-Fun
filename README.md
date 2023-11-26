@@ -11,7 +11,7 @@ This project includes three simple games implemented in Python and presented thr
 
 2. **Dice Game:**
    - Asks the user to guess a number between 1 and 6, simulating a dice roll.
-   - The program compares the user's guess with the actual dice result and declares whether the user wins or loses.
+   - The program compares the user's guess with the actual dice result and declares whether the user wins or lose.
 
 3. **Cubes Game:**
    - Prompts the user to input a number.
